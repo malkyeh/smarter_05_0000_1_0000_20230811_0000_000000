@@ -1,0 +1,2 @@
+# smarter_05_0000_1_0000_20230811_0000_000000
+苗株可見光影像物件辨識模型 Seedling image identification model
